@@ -118,11 +118,12 @@ form button {
 .prev-and-next-container {
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .prev-and-next-container button {
   transform: scale(1.3);
-  margin: 15px;
+  margin: 100px;
 }
 
 .warning-message {
